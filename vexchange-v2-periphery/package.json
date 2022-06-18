@@ -36,5 +36,8 @@
     "test": "mocha",
     "prepublishOnly": "npm run test"
   },
-  "license": "GPL-3.0-or-later"
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }
 }
